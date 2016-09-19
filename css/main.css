@@ -54,3 +54,14 @@ body {
 .about-p {
   text-align: left;
 }
+
+.menard-signature {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+.menard-sig {
+  max-width: 150px;
+  margin: 0 auto;
+}
