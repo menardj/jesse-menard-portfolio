@@ -1,0 +1,56 @@
+@-moz-viewport { width: device-width; scale: 1; }
+@-ms-viewport { width: device-width; scale: 1; }
+@-o-viewport { width: device-width; scale: 1; }
+@-webkit-viewport { width: device-width; scale: 1; }
+@viewport { width: device-width; scale: 1; }
+
+html {
+	box-sizing: border-box;
+
+  moz-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
+  text-size-adjust: 100%;
+}
+
+*, *::before, *::after {
+	box-sizing: inherit;
+}
+
+body {
+	margin: 0;
+	padding: 0;
+  background-color: #F3F3F3;
+}
+
+.menard-title {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+.logo-icon {
+  max-width: 100px;
+  margin: 0 auto;
+  padding-top: .5em;
+}
+
+.mmpage {
+  position: absolute;
+  top: 600px;
+  width: 100%;
+}
+
+.about-section {
+   margin: 0 auto;
+   text-align: center;
+}
+
+.about-header {
+  font-family: 'Granjon LT Std', serif;
+  text-align: center;
+}
+
+.about-p {
+  text-align: left;
+}
