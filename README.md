@@ -4,7 +4,7 @@
 
 ![](http://jessemenard.ca/images/logoicon-small.jpg)
 
-A third year student of Algonquin College's Graphic Design program specializing in layout design, UI/UX design, and production with experience in the industry as a Pre-Press Multimedia Designer working under Osprey Media.
+I am a third year student of Algonquin College's Graphic Design program who worships the greyscale but sometimes bends to the will of the color wheel. I strive to create simple, and modern work inspired by Wednesday Addams.
 
 - **[heythere@jessemenard.ca](mailto:heythere@jessemenard.ca)**
 - [Twitter](https://twitter.com/jesse_menard)
