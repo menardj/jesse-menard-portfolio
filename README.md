@@ -2,7 +2,7 @@
 
 #### [jessemenard.ca](http://www.jessemenard.ca)
 
-![](images/logoicon.svg)
+![](http://jessemenard.ca/images/logoicon.svg)
 
 A third year student of Algonquin College's Graphic Design program specializing in layout design, UI/UX design, and production with experience in the industry as a Pre-Press Multimedia Designer working under Osprey Media.
 
