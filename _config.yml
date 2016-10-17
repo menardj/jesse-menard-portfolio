@@ -1,0 +1,3 @@
+markdown: redcarpet
+baseurl: /jesse-menard-portfolio
+exlude: ['README.md']
