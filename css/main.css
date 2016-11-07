@@ -58,6 +58,7 @@ body {
 .portfolio-piece-photo {
   margin-left: 3em;
   margin-right: 3em;
+  max-width: 500px;
 }
 
 .caption-block {
