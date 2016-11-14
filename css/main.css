@@ -74,6 +74,10 @@ body {
   padding: 0;
 }
 
+.portfolio-image {
+  max-width: 100%;
+}
+
 .bottom-rule {
   text-align: center;
   margin-left: 3em;
