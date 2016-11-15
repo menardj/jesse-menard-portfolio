@@ -55,12 +55,6 @@ body {
   text-align: left;
 }
 
-.portfolio-piece-photo {
-  max-width: 100%;
-  /* margin-left: 3em; */
-  /* margin-right: 3em; */
-}
-
 .portfolio-image {
   /* margin-left: 3em; */
   /* margin-right: 3em; */
@@ -70,6 +64,17 @@ body {
 }
 
 .caption-block {
+  /* margin-left: 3em; */
+  /* margin-right: 3em; */
+}
+
+.portfolio-piece {
+  padding-left: 3em;
+  padding-right: 3em;
+}
+
+.portfolio-piece-photo {
+  max-width: 100%;
   /* margin-left: 3em; */
   /* margin-right: 3em; */
 }
