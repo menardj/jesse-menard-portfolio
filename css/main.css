@@ -47,7 +47,7 @@ body {
 }
 
 .about-header {
-  font-family: 'Oxygen', 'Light', sans-serif;
+  font-family: 'Amiri', 'bold', serif;
   text-align: center;
 }
 
@@ -85,6 +85,7 @@ body {
 }
 
 .portfolio-piece-caption {
+  font-family: 'Amiri', 'bold', serif;
   padding: 0;
 }
 
