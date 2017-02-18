@@ -101,8 +101,9 @@ body {
 } 
 
 .menard-sig {
-  max-width: 150px;
+  max-width: 100px;
   margin: 0 auto;
+  padding-bottom: 0.5em;
 }
 
 .social-block {
