@@ -30,9 +30,9 @@ body {
 }
 
 .portrait-icon {
-  max-width: 100px;
+  max-width: 50px;
   margin: 0 auto;
-  padding-top: 1em;
+  padding-top: 0.5em;
 }
 
 .logo-icon {
