@@ -29,16 +29,10 @@ body {
     text-align: center;
 }
 
-.portrait-icon {
-  max-width: 250px;
-  margin: 0 auto;
-  padding-top: 0.25em;
-}
-
 .logo-icon {
   max-width: 500px;
   margin: 0 auto;
-  padding-top: 1em;
+  padding-top: 0.5em;
 }
 
 .mmpage {
